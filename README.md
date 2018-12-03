@@ -1,5 +1,7 @@
-#NOTES
+#INSPIRATIONS
+https://www.youtube.com/watch?v=tQ4unnMgiSQ
 https://codepen.io/jonathanbell/pen/OvYVYw?editors=0010
+githbu odometer
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
